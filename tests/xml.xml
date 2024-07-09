@@ -1,0 +1,14 @@
+<products>
+    <product>
+        <id>123</id>
+        <price>22.0</price>
+        <sku>3123</sku>
+        <name>product 1</name>
+    </product>
+    <product>
+        <id>asdv</id>
+        <price>23.0</price>
+        <sku>7651</sku>
+        <name>product 2</name>
+    </product>
+</products>
